@@ -8,7 +8,7 @@ You can also explore and run these examples live on Scribbler Hub: [https://hub.
 
 ## Examples
 
-### Heat Transfer (solidHeatTransferScript)
+### Heat Transfer (heatConductionScript)
 
 - **Heat Conduction Through a Wall**: 1D heat transfer with convection and constant temperature boundary conditions
 - **Heat Conduction in a Two-Dimensional Fin**: 2D heat transfer in a cooling fin with symmetry, convection, and constant-temperature boundaries
