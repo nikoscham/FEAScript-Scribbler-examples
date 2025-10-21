@@ -17,4 +17,4 @@ Read the full Scribbler blog post regarding the heat transfer examples: [Heat Tr
 
 ## License
 
-This repository is released under the [MIT license](https://github.com/nikoscham/FEAScript-Scribbler-examples/blob/main/LICENSE). &copy; 2025 Nikos Chamakos.
+The core library of FEAScript is released under the [MIT license](https://github.com/FEAScript/FEAScript-core/blob/main/LICENSE). &copy; 2023-2025 FEAScript.
