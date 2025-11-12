@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "name": "HeatConduction1DWall",
+    "name": "heat-conduction-1d-wall",
     "language_info": {
       "name": "JavaScipt",
       "version": "8.0"

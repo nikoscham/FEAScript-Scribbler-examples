@@ -8,6 +8,10 @@ You can also explore and run these examples live on Scribbler Hub: [https://hub.
 
 ## Examples
 
+### General Form PDE (generalFormPDEScript)
+
+- **Advection-Diffusion with a Gaussian Source Term**: 1D advection-diffusion problem with a source term, demonstrating the use of constant value and zero-gradient boundary conditions
+
 ### Heat Transfer (heatConductionScript)
 
 - **Heat Conduction Through a Wall**: 1D heat transfer with convection and constant temperature boundary conditions

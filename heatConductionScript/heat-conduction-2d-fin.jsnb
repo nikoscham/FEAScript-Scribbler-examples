@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "name": "HeatConduction2DFin",
+    "name": "heat-conduction-2d-fin",
     "language_info": {
       "name": "JavaScipt",
       "version": "8.0"
