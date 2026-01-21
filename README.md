@@ -8,6 +8,10 @@ You can also explore and run these examples live on Scribbler Hub: [https://hub.
 
 ## Examples
 
+### Front Propagation (frontPropagationScript)
+
+- **Solidification Front Propagation in a 2D Domain**: 2D steady-state eikonal equation problem modeling the movement of a solidification interface (e.g., in metal cooling or crystal growth), with constant-value boundary conditions on three sides and zero-gradient on the remaining boundary.
+
 ### General Form PDE (generalFormPDEScript)
 
 - **Advection-Diffusion with a Gaussian Source Term**: 1D advection-diffusion problem with a source term, demonstrating the use of constant value and zero-gradient boundary conditions
