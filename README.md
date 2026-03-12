@@ -8,6 +8,10 @@ You can also explore and run these examples live on Scribbler Hub: [https://hub.
 
 ## Examples
 
+### Creeping Flow (creepingFlowScript)
+
+- **Lid-Driven Cavity Creeping Flow**: 2D steady Stokes (incompressible creeping flow) simulation in a rectangular cavity with no-slip walls and a moving top lid, solved with Taylor-Hood mixed finite elements (Q2/Q1).
+
 ### Front Propagation (frontPropagationScript)
 
 - **Solidification Front Propagation in a 2D Domain**: 2D steady-state eikonal equation problem modeling the movement of a solidification interface (e.g., in metal cooling or crystal growth), with constant-value boundary conditions on three sides and zero-gradient on the remaining boundary.
