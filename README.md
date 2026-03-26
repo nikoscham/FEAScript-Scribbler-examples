@@ -29,4 +29,4 @@ Read the full Scribbler blog post regarding the heat transfer examples: [Heat Tr
 
 ## License
 
-The core library of FEAScript is released under the [MIT license](https://github.com/FEAScript/FEAScript-core/blob/main/LICENSE). &copy; 2023-2025 FEAScript.
+The core library of FEAScript is released under the [MIT license](https://github.com/FEAScript/FEAScript-core/blob/main/LICENSE)
